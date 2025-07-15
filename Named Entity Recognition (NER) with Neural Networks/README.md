@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, completed as **COMP534: Machine Learning Pipeline - Assessment 3**, focuses on building and training neural network models for **Named Entity Recognition (NER)**. NER is a fundamental Natural Language Processing (NLP) subtask that involves identifying and classifying named entities (like locations, persons, organizations, etc.) within text. This assignment explores the development of both Recurrent Neural Networks (RNNs) and Transformer Networks from scratch for this crucial task.
+This project, completed as **Machine Learning Pipeline**, focuses on building and training neural network models for **Named Entity Recognition (NER)**. NER is a fundamental Natural Language Processing (NLP) subtask that involves identifying and classifying named entities (like locations, persons, organizations, etc.) within text. This assignment explores the development of both Recurrent Neural Networks (RNNs) and Transformer Networks from scratch for this crucial task.
 
 ---
 
